@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firestore-crud/static/css/main.073c9b0a.css",
+    "main.js": "/firestore-crud/static/js/main.23e50b73.js",
+    "static/js/787.bee94078.chunk.js": "/firestore-crud/static/js/787.bee94078.chunk.js",
+    "static/media/logo.svg": "/firestore-crud/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/firestore-crud/index.html",
+    "main.073c9b0a.css.map": "/firestore-crud/static/css/main.073c9b0a.css.map",
+    "main.23e50b73.js.map": "/firestore-crud/static/js/main.23e50b73.js.map",
+    "787.bee94078.chunk.js.map": "/firestore-crud/static/js/787.bee94078.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.23e50b73.js"
+  ]
+}

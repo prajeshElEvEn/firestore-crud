@@ -2,7 +2,7 @@
   "name": "firestore-crud",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://prajesheleven.github.io/firestore-crud/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
